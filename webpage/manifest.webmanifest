@@ -1,0 +1,6 @@
+{
+    "icons": [
+        {"src": "/icons/icon-128.png", "type": "image/png"},
+        {"src": "/icons/icon-512.png", "type": "image/png"}
+    ]
+}
