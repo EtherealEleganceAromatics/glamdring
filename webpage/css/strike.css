@@ -1,0 +1,75 @@
+:root {
+  --gray: #444;
+}
+
+#mothers-day-strike-banner {
+  position: absolute;
+  z-index: 10;
+
+  height: 100vh;
+  width: 100vw;
+  padding: 10vh 10vw;
+
+  background-color: black;
+  color: white;
+
+  font-family: "Hanata", serif;
+  text-align: justify;
+}
+
+#mothers-day-strike-banner > .banner-content {
+  margin: auto;
+}
+
+#mothers-day-strike-banner > .banner-content > * {
+  padding: 1em;
+  line-height: 100%;
+}
+
+#mothers-day-strike-banner .xl {
+  font-size: min(3.5rem, 10vw) !important;
+  text-align: center;
+}
+
+#mothers-day-strike-banner .l {
+  font-size: min(3rem, 8vw) !important;
+  text-align: center;
+
+  padding-left: 5vw;
+  padding-right: 5vw;
+
+  background-color: var(--gray);
+}
+
+#mothers-day-strike-banner .m {
+  font-size: min(2rem, 5vw) !important;
+}
+
+#mothers-day-strike-banner .banner-buttons {
+  text-align: center;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#mothers-day-strike-banner .banner-buttons :hover {
+  background-color: var(--gray);
+}
+
+#mothers-day-strike-banner .banner-buttons > * {
+  padding: 1rem 1rem;
+}
+
+#mothers-day-strike-banner a {
+  font-weight: bold;
+}
+
+#mothers-day-strike-banner a,
+#mothers-day-strike-banner a:link {
+  color: slategray;
+}
+
+#mothers-day-strike-banner a:visited,
+#mothers-day-strike-banner a:hover,
+#mothers-day-strike-banner a:active {
+  color: slategray;
+}
