@@ -1,3 +1,5 @@
+:warning: Archived project for initial website launch. More to come on the future... :rocket:
+
 # Ethereal Elegance Design
 
 The main website for Ethereal Elegance Design, available [here](https://etherealelegance.design).
