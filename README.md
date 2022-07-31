@@ -1,4 +1,4 @@
-:warning: **Archived project for initial website launch. More to come on the future...** :rocket:
+:warning: **Archived project of the initial website launch. More to come on the future...** :rocket:
 
 # Ethereal Elegance Design
 
